@@ -65,4 +65,6 @@ The dataset is called `day.csv` and is compilation of data from the multiple sou
    ```bash
    git clone https://github.com/jacanevaro/data_visualization_project.git
    cd data_visualization_project
+---
 
+* I used the Copilot AI integration in Bing to help me find the right grapics to use in this .README file.
