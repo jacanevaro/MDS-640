@@ -1,6 +1,6 @@
 # 🚲Predicting Registered Capital Bikeshare™ Users with Exponential Smoothing
 
-## This was the final project for MDS-620 Data-Driven Decision Making during the Spring of 2025. It uses a compilation of some publicly-available datasets and demonstrates several visualization techniques.
+This was the final project for MDS-620 Data-Driven Decision Making during the Spring of 2025. It uses a compilation of some publicly-available datasets and demonstrates several visualization techniques.
 ---
 
 ## 🔭Project Summary
