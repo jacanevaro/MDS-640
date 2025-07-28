@@ -1,9 +1,10 @@
 # 🚲Predicting Registered Capital Bikeshare™ Users with Exponential Smoothing
 
 This was the final project for MDS-620 Data-Driven Decision Making during the Spring of 2025. It uses a compilation of some publicly-available datasets and demonstrates several visualization techniques.
+
 ---
 
-## 🔭Project Summary
+## 🔭 Project Summary
 
 An analysis of user behavior and weather patterns to predict the number of registered users during a given timeframe.
 - Data Visualization
@@ -16,7 +17,7 @@ The optimal outcome is a model that accurately predicts the **number of register
 
 ---
 
-## ⚙️Tools
+## ⚙️ Tools
 - 🐼 **Pandas**
 - #️⃣ **Numpy**
 - 📊 **Matplotlib**
@@ -26,7 +27,7 @@ The optimal outcome is a model that accurately predicts the **number of register
 
 ---
 
-## 📂Dataset 
+## 📂 Dataset 
 
 The dataset is called `day.csv` and is compilation of data from the multiple sources. It includes weather information, and user counts are aggregated on a daily basis. The data book provides details regarding the sources of the data and how it was transformed.
 
@@ -52,14 +53,14 @@ The dataset is called `day.csv` and is compilation of data from the multiple sou
 
 ---
 
-## 💡Key Insights
+## 💡 Key Insights
 - The data showed clear seasonality, thus the need for exponential smoothing.
 - The model's predictions for January 2013 were consistent with the counts for January of 2011 and 2012.
 - Stakeholders can use this model to increase registered users in order to gain access to the wealth of data that registration brings.
 
 --- 
 
-## 🏃Run the Code
+## 🏃 Run the Code
 
 1. Clone this repository:
    ```bash
